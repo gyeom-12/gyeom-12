@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hello&fontSize=90)
 
-#3776AB%20python 
+#3776AB
 
 :blush:
 <!--
