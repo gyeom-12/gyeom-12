@@ -7,7 +7,8 @@
 :blush:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bogyeom-Kim)](https://github.com/anuraghazra/github-readme-stats)
- 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bogyeom-Kim)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **gyeom-12/gyeom-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
